@@ -1,0 +1,17 @@
+.section{
+  background-color: rgb(19, 73, 138);
+  padding-top: 50px;
+  border-bottom: 10px solid rgb(219, 108, 19);
+}
+
+.section .main-title{
+  margin-bottom: 60px;
+}
+
+.section.-bgBlack{
+  background-color: black;
+}
+
+.section.-bdFirst{
+  border-color: rgb(19, 73, 138);
+}

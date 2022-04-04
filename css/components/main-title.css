@@ -1,0 +1,19 @@
+.main-title{
+  font-family: 'Press Start 2P',sans-serif;
+  font-size: 40px;
+  color: rgb(41, 105, 184);
+  text-shadow: 4px 4px 0 #000;
+}
+
+
+/*
+  Quando se tem .nomeDaClasse.outraClasse
+  O CSS vai estar procurando a tag que possui essas classes
+  como: 
+    <a class="nomeDaClasse outraClasse"></a>
+*/
+.main-title.-second{
+  color: #FFF;
+  text-shadow: none;
+  text-align: center;
+}
